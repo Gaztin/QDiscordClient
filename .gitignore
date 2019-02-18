@@ -1,0 +1,7 @@
+/.qtdir
+/.vs
+/*.sln
+/bin/*.dll
+/build/*.vcxproj
+/build/*.vcxproj.user
+/premake5.exe
